@@ -10,7 +10,4 @@
 
 @interface Gameplay : CCSprite
 
-- (void) touchMoved:(UITouch *)touch withEvent:(UIEvent *)event;
-
-
 @end
