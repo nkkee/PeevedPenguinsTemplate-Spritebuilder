@@ -8,9 +8,9 @@
 
 #import "CCSprite.h"
 
-@interface Gameplay : CCSprite
+//@interface Gameplay : CCSprite
 
-@end
+//@end
 
 @interface Gameplay : CCNode <CCPhysicsCollisionDelegate>
 
