@@ -11,3 +11,7 @@
 @interface Gameplay : CCSprite
 
 @end
+
+@interface Gameplay : CCNode <CCPhysicsCollisionDelegate>
+
+@end
