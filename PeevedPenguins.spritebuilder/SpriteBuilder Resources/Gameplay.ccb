@@ -426,8 +426,12 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>177</real>
+											<real>0.01171875</real>
+											<real>115.4296875</real>
+										</array>
+										<array>
+											<real>-0.98828125</real>
+											<real>141.4296875</real>
 										</array>
 										<array>
 											<real>42</real>
@@ -438,6 +442,10 @@
 											<real>102.546875</real>
 										</array>
 										<array>
+											<real>18.0859375</real>
+											<real>109.50390625</real>
+										</array>
+										<array>
 											<real>18.99609375</real>
 											<real>26.546875</real>
 										</array>
@@ -446,8 +454,8 @@
 									<array>
 										<array>
 											<array>
-												<real>18.99609375</real>
-												<real>26.546875</real>
+												<real>18.0859375</real>
+												<real>109.50390625</real>
 											</array>
 											<array>
 												<real>37.99609375</real>
@@ -458,12 +466,40 @@
 												<real>177</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>177</real>
+												<real>-0.98828125</real>
+												<real>141.4296875</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>18.0859375</real>
+												<real>109.50390625</real>
+											</array>
+											<array>
+												<real>-0.98828125</real>
+												<real>141.4296875</real>
+											</array>
+											<array>
+												<real>0.01171875</real>
+												<real>115.4296875</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>0.01171875</real>
+												<real>115.4296875</real>
 											</array>
 											<array>
 												<real>0.0</real>
 												<real>0.0</real>
+											</array>
+											<array>
+												<real>18.99609375</real>
+												<real>26.546875</real>
+											</array>
+											<array>
+												<real>18.0859375</real>
+												<real>109.50390625</real>
 											</array>
 										</array>
 									</array>
@@ -588,16 +624,32 @@
 											<real>12.97265625</real>
 										</array>
 										<array>
-											<real>-0.45703125</real>
-											<real>44.9296875</real>
+											<real>0.5859375</real>
+											<real>41.00390625</real>
 										</array>
 										<array>
-											<real>66.54296875</real>
-											<real>78.9296875</real>
+											<real>62.5859375</real>
+											<real>55.00390625</real>
 										</array>
 										<array>
-											<real>178.54296875</real>
-											<real>54.97265625</real>
+											<real>62.5859375</real>
+											<real>78.00390625</real>
+										</array>
+										<array>
+											<real>61.5859375</real>
+											<real>76.00390625</real>
+										</array>
+										<array>
+											<real>95.5859375</real>
+											<real>78.00390625</real>
+										</array>
+										<array>
+											<real>155.5859375</real>
+											<real>52.00390625</real>
+										</array>
+										<array>
+											<real>187.5859375</real>
+											<real>50.00390625</real>
 										</array>
 										<array>
 											<real>213.54296875</real>
@@ -612,6 +664,14 @@
 									<array>
 										<array>
 											<array>
+												<real>0.5859375</real>
+												<real>41.00390625</real>
+											</array>
+											<array>
+												<real>14.54296875</real>
+												<real>12.97265625</real>
+											</array>
+											<array>
 												<real>212.54296875</real>
 												<real>12.97265625</real>
 											</array>
@@ -620,20 +680,16 @@
 												<real>32.9296875</real>
 											</array>
 											<array>
-												<real>178.54296875</real>
-												<real>54.97265625</real>
+												<real>187.5859375</real>
+												<real>50.00390625</real>
 											</array>
 											<array>
-												<real>66.54296875</real>
-												<real>78.9296875</real>
+												<real>95.5859375</real>
+												<real>78.00390625</real>
 											</array>
 											<array>
-												<real>-0.45703125</real>
-												<real>44.9296875</real>
-											</array>
-											<array>
-												<real>14.54296875</real>
-												<real>12.97265625</real>
+												<real>62.5859375</real>
+												<real>78.00390625</real>
 											</array>
 										</array>
 									</array>
@@ -898,12 +954,12 @@
 											<real>-0.5703125</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>47.5</real>
+											<real>-1.98828125</real>
+											<real>49.4296875</real>
 										</array>
 										<array>
-											<real>960</real>
-											<real>51.5</real>
+											<real>959.01171875</real>
+											<real>56.4296875</real>
 										</array>
 										<array>
 											<real>960</real>
@@ -918,12 +974,12 @@
 												<real>0.0</real>
 											</array>
 											<array>
-												<real>960</real>
-												<real>51.5</real>
+												<real>959.01171875</real>
+												<real>56.4296875</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>47.5</real>
+												<real>-1.98828125</real>
+												<real>49.4296875</real>
 											</array>
 											<array>
 												<real>-1.046875</real>
